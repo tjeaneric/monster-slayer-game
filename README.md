@@ -1,1 +1,1 @@
-# monster-slayer-game built using VueJS 
+# Monster-slayer-game built using VueJS
